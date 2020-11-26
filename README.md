@@ -25,11 +25,11 @@
 
 По двойному щелчку на строке, соответствующей процессу, открывается дополнительное окно программы, содержащее описание свойств выбранного процесса. Данное окно имеет две вкладки: "Основные свойства", показанную на рисунке 6, и "Список DLL", показанную на рисунке 7.
 
-![](https://github.com/AlekseiSmetanin/Processes-list/blob/master/Screenshots/Github%20project%203%20pic%205.png "Рисунок 6 – Вкладка "Основные свойства" дополнительного окна программы")
+![](https://github.com/AlekseiSmetanin/Processes-list/blob/master/Screenshots/Github%20project%203%20pic%205.png "Рисунок 6 – Вкладка Основные свойства дополнительного окна программы")
 
 Рисунок 6 – Вкладка "Основные свойства" дополнительного окна программы
 
-![](https://github.com/AlekseiSmetanin/Processes-list/blob/master/Screenshots/Github%20project%203%20pic%206.png "Рисунок 7 – Вкладка "Список DLL" дополнительного окна программы")
+![](https://github.com/AlekseiSmetanin/Processes-list/blob/master/Screenshots/Github%20project%203%20pic%206.png "Рисунок 7 – Вкладка Список DLL дополнительного окна программы")
 
 Рисунок 7 – Вкладка "Список DLL" дополнительного окна программы
 

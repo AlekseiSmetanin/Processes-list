@@ -15,7 +15,7 @@
 
 Рисунок 3 – Сортировка списка процессов по PID'у в порядке возрастания
 
-![](https://github.com/AlekseiSmetanin/Processes-list/blob/master/Screenshots/Github%20project%203%20pic%204.png "Рисунок 4 – Сортировка списка процессов по PID'у в порядке убывания")
+![](https://github.com/AlekseiSmetanin/Processes-list/blob/master/Screenshots/Github%20project%203%20pic%204.png "Рисунок 4 – Сортировка списка  процессов по PID'у в порядке убывания")
 
 Рисунок 4 – Сортировка списка процессов по PID'у в порядке убывания
 
